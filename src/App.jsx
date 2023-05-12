@@ -1,10 +1,11 @@
-import Crousal from "./Crousal";
+import Crousal from './Crousal'
+import SlickCrousal from './SlickCrousal'
 
 const App = () => {
   return (
     <main>
-      <Crousal />
+      <SlickCrousal />
     </main>
-  );
-};
-export default App;
+  )
+}
+export default App
